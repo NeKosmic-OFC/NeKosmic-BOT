@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/FJAu5KYaawU5ty9apbdFmy' , 'https://chat.whatsapp.com/IVE30IhKwxsGbOunDFpOS2' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible' , 'https://chat.whatsapp.com/No-disponible'] // No tiene utilidad 
 global.channelTikTok = ['https://vm.tiktok.com/ZMLNSV3YV/'] // No tiene utilidad
-global.owner = ['34623442554' , '56949581430'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
-global.mods = ['34623442554' , '56949581430'] // No tiene utilidad
-global.prems = ['34623442554' , '56949581430', '56975256031'] // Podra usar algunos comandos del apartado de propietario
+global.owner = ['5574370309' , '56949581430'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.mods = ['5574370309' , '56949581430'] // No tiene utilidad
+global.prems = ['5574370309' , '56949581430', '56975256031'] // Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 // Nota: Puedes contactarme si necesitas ayuda con algo al +34623442555 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
@@ -55,7 +55,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'NeKosmic - Bot'
+global.author = 'neko - bot'
 
 
 global.wm = '™𝓝𝓮𝓚𝓸𝓼𝓶𝓲𝓬 - 𝓑𝓞𝓣'
